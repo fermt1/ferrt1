@@ -21,7 +21,7 @@
 
 ```java
 public class Me{
-  private String name = "Fernando Trejo";
+  private String name = "Fernando";
   private Integer age = 24;
   private String country = "Argentina";
 }
